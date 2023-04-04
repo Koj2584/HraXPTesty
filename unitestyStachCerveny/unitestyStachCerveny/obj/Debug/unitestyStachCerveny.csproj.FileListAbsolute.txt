@@ -1,0 +1,10 @@
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\bin\Debug\unitestyStachCerveny.exe.config
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\bin\Debug\unitestyStachCerveny.exe
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\bin\Debug\unitestyStachCerveny.pdb
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.exe
+C:\Users\Uživatel\Desktop\programko\unitestyStachCerveny\unitestyStachCerveny\obj\Debug\unitestyStachCerveny.pdb
